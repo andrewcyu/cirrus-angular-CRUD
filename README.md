@@ -409,7 +409,7 @@ block content
 <br><br>
 
 
-## PART 3: Angular Routing 
+## PART 3: Angular Routing with Restangular
 
 Up to this point we've set up routes with express. Now we're going to angularize it using Restangular and ui-router. Why angularize it? So that we can send data back and forth from $scope 
 
