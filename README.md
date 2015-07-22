@@ -6,7 +6,7 @@ You can think of this tutorial as Part 3. This tutorial itself will be broken in
 
 [PART 1: Express CRUD, Mongo Set Up](#part-1--express-crud-routes-mongo-set-up)<br>
 [PART 2: Angularize Me!](#part-2-angularize-me)<br>
-[PART 3: Angular Routing](#part-3-angular-routing-with-restangular)<br>
+[PART 3: Angular Routing with Restangular](#part-3-angular-routing-with-restangular)<br>
 [PART 4: Angular UI Router](#part-4-angular-ui-router)<br>
 
 Let's get started!
